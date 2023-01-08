@@ -4,4 +4,5 @@ Para rodar esse codigo é necessário:
 
 ```
 Criar uma conta no GitHub;
+node app.js
 ```
